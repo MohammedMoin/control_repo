@@ -1,2 +1,2 @@
 # control_repo
-# Puppet scripts
+Puppet scripts
